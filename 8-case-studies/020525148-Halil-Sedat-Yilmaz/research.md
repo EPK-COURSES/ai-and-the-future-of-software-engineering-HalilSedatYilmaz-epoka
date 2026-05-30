@@ -2,17 +2,17 @@
 
 ### How They Use AI
 
-Microsoft is globally the company that has and still is investing the most in AI and AI-powered solutions. THey do this with GitHub Copilot and implementation of AI in Microsoft 265.
+Microsoft is globally the company that has and still is investing the most in AI and AI-powered solutions. THey do this with GitHub Copilot and implementation of AI in Microsoft 365.
 
-GitHub Copilot is an AI that aids with programming embedded within editors directly such as VS Code, offering live code suggestions and input-based assistance via a chatbox, all of which together support agnetic coding workflows. For more specific, complex tasks, developers can build custom AI agents tailored for their projects and tasks, allowing developers to automate workflows 
+GitHub Copilot is an AI that aids with programming embedded within editors directly such as VS Code, offering live code suggestions and input-based assistance via a chatbox, all of which together support agnetic coding workflows. For more specific, complex tasks, developers can build custom AI agents tailored for their projects and tasks, allowing developers to automate workflows. 
 (https://learn.microsoft.com/en-us/power-platform/release-plan/2025wave1/microsoft-copilot-studio/) 
-(https://cloudwars.com/cloud/the-agentic-enterprise-arrives-microsofts-copilot-and-agent-breakthroughs-of-2025/).
+(https://cloudwars.com/cloud/the-agentic-enterprise-arrives-microsofts-copilot-and-agent-breakthroughs-of-2025/)
 
 ### Workflow Changes
 
 - Developers can delegate boilerplate, CRUD operations, and test generation to AI systems like Copilot, allowing them to have time for higher-level design work.
 - Pull request workflows have accelerated since AI can assist with code review comments, summaries, and merge checks.
-- Copilot Studio has agents that can (on their own) handle tasks like legal contract review, routing, and document classification. For example, Unifi, North America's largest aviation ground handling services provider, used Copilot Studio to reduce contract processing from days to minutes (https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/).
+- Copilot Studio has agents that can (on their own) handle tasks like legal contract review, routing, and document classification. For example, Unifi, North America's largest aviation ground handling services provider, used Copilot Studio to reduce contract processing from days to minutes. (https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/)
 
 ### Advantages
 
@@ -25,7 +25,7 @@ GitHub Copilot is an AI that aids with programming embedded within editors direc
 - Productivity benefits are uneven: repetitive tasks like writing boilerplate, creating standard CRUD operations, and generating test cases might be accelerated, but complex reasoning tasks benefit far less. (https://www.secondtalent.com/resources/github-copilot-statistics/) 
 
 
-## 4. Duolingo — AI-First Strategy & the Human Backlash
+## 2. Duolingo — AI-First Strategy & the Human Backlash
 
 ### How They Use AI
 
